@@ -1,4 +1,6 @@
 notebooks/.ipynb_checkpoints/
 notebooks/__pycache__/
+dataset/*.csv
+zip/*.zip
 *.json
 *.hdf5
